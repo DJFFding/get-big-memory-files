@@ -1,0 +1,101 @@
+C:\Users\Public\Documents\Shared Virtual Machines\Red Hat Enterprise Linux Kali 7 (64-bit)\564de894-7b13-474b-b36c-8df88264d3d6.vmem     大小:1073741824字节
+C:\Users\24676\.PyCharmCE2018.1\system\caches\content.dat.storageData     大小:729152071字节
+C:\Users\24676\.PyCharm2018.1\system\caches\content.dat.storageData     大小:530611541字节
+C:\Aomei\AomeiBoot.wim     大小:525377172字节
+C:\Windows\System32\Recovery\winre.wim     大小:512589155字节
+C:\Windows\Installer\4448d7.msi     大小:389058560字节
+C:\Users\24676\.PyCharmCE2017.3\system\caches\content.dat.storageData     大小:350024820字节
+C:\Windows\Installer\1fc02667.msi     大小:264171008字节
+C:\Windows\SoftwareDistribution\Download\412c553e205202388815bb3e63aeae4a\Windows10.0-KB4537762-x64_psf.rng     大小:263692988字节
+C:\Windows\WinSxS\ManifestCache\b12f7a4f9d6bc8b2_blobs.bin     大小:244092761字节
+C:\LenovoDrivers\Drivers\NVIDIA GeForce GTX 1050_22.21.13.8205@42.7z     大小:216328441字节
+C:\Windows\Installer\337dca0f.msi     大小:214832128字节
+C:\Users\24676\AppData\Roaming\Unity\Asset Store-5.x\Unity Technologies\Unity EssentialsAsset Packs\Standard Assets for Unity 20173.unitypackage     大小:198922869字节
+C:\ProgramData\Microsoft Help\MS.VSCC.v90_2052_MKWD_A.HxW     大小:188201092字节
+C:\ProgramData\Microsoft Help\MS.MSDNQTR.v90.chs_2052_MKWD_A.HxW     大小:188201012字节
+C:\Users\24676\AppData\LocalLow\Oracle\Java\jdk14.0.2_x64\jdk14.0.264.msi     大小:168742912字节
+C:\Windows\Installer\a58c4e8.msi     大小:168742912字节
+C:\Users\24676\AppData\Roaming\Adobe\Common\Motion Graphics Templates\[AE] News Package\News Intro.mogrt     大小:160470169字节
+C:\Users\24676\AppData\Local\VMware\vmware-download-3358\cdstmp_ws-windows_14.1.8_14921873\VMware-workstation-14.1.8-14921873.exe     大小:157719600字节
+C:\Users\24676\AppData\Local\VMware\vmware-download-23C8\cdstmp_ws-windows_14.1.3_9474260\VMware-workstation-14.1.3-9474260.exe     大小:157662776字节
+C:\Users\24676\AppData\LocalLow\Oracle\Java\jdk11.0.1_x64\jdk11.0.164.msi     大小:157143040字节
+C:\Windows\Installer\88d8121.msi     大小:157143040字节
+C:\Users\24676\AppData\Local\Packages\42920yunfanchina.MOOC-_24n3fmj6qqchj\AC\INetHistory\mms\8IU7JQ3U\650062_shd[1].dat     大小:155123712字节
+C:\Users\24676\Anaconda3\pkgs\mkl-2018.0.0-h36b65af_4.tar.bz2     大小:152201749字节
+C:\Users\24676\.PyCharmCE2018.1\system\index\trigram.index\Trigram.Index.storage.values     大小:144499468字节
+C:\Windows\Installer\16165.msi     大小:142082048字节
+C:\LenovoDrivers\Drivers\Intel(R) HD Graphics 630_21.20.16.4627@42.7z     大小:141969650字节
+C:\Windows\System32\config\SOFTWARE     大小:137887744字节
+C:\Program Files\Java\jdk-11.0.1\lib\modules     大小:136605867字节
+C:\Windows\System32\MRT.exe     大小:133736600字节
+C:\Windows\System32\MRT-KB890830.exe     大小:133315992字节
+C:\Users\24676\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat     大小:132120576字节
+C:\Program Files (x86)\Google\Chrome\Application\86.0.4240.198\chrome.dll     大小:129761264字节
+C:\Users\24676\.PyCharmCE2018.1\system\index\idindex\IdIndex.storage.values     大小:115747269字节
+C:\Program Files (x86)\Common Files\VMware\InstallerCache\{79DADE5E-FD68-46FA-A40F-D1BA504E97B5}.msi     大小:114401280字节
+C:\Windows\Installer\1270ef.msi     大小:114401280字节
+C:\Program Files\Common Files\Adobe\Plug-Ins\CC\File Formats\Camera Raw.8bi     大小:113506368字节
+C:\ProgramData\StarUML\installer.exe     大小:112741520字节
+C:\Windows\Installer\103e59e.msp     大小:101699584字节
+C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{C056363C-EB9D-4E59-AFBA-DB035EDE59A6}\NvCplSetupInt.exe     大小:100746160字节
+C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_56f43253abca2151\NvCplSetupInt.exe     大小:100746160字节
+C:\Users\24676\AppData\Local\Postman\app-6.7.4\resources\app.asar     大小:100102912字节
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\libcef.dll     大小:98847312字节
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\med\3399.0\medscan.dat     大小:97356445字节
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\med\3400.0\medscan.dat     大小:97244765字节
+C:\Users\24676\AppData\Roaming\QtProject\qtcreator\.helpcollection\fts     大小:94703616字节
+C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_0f964bdf59d03779\igdumdim64.dll     大小:94226912字节
+C:\Users\24676\AppData\Local\QtProject\Assistant\.qthelpcollection_5.10.1\fts     大小:92999680字节
+C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_0f964bdf59d03779\igdumdim32.dll     大小:92969216字节
+C:\ProgramData\MySQL\MySQL Installer for Windows\Product Cache\mysql-5.7.23-winx64.msi     大小:91475968字节
+C:\Windows\Installer\6914aa.msi     大小:91475968字节
+C:\ProgramData\Microsoft Help\MS.VSCC.v90_2052_MKWD_F.HxW     大小:90051708字节
+C:\ProgramData\Microsoft Help\MS.MSDNQTR.v90.chs_2052_MKWD_F.HxW     大小:90051628字节
+C:\Program Files (x86)\Lenovo\SLBrowser\installer\LenovoBrowser.dll     大小:89847000字节
+C:\Users\24676\AppData\Local\lenovo\SLBUpdate\LenovoBrowser.dll     大小:89847000字节
+C:\Users\24676\AppData\Roaming\NVIDIA\GLCache\38d31357932bb5cfb5d9bd361c203e5c\3a39a33e3c93a3c3\857d2b326652e9f5.bin     大小:88755683字节
+C:\ProgramData\MySQL\MySQL Installer for Windows\Product Cache\mysql-5.7.23-win32.msi     大小:87445504字节
+C:\Program Files\StarUML\resources\app.asar     大小:82575839字节
+C:\LenovoDrivers\Drivers\Realtek High Definition Audio_6.0.1.8470@42.7z     大小:82166811字节
+C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\CEF\libcef.dll     大小:81764304字节
+C:\Program Files\StarUML\StarUML.exe     大小:81042840字节
+C:\ProgramData\MySQL\MySQL Server 5.7\Data\ibdata1     大小:79691776字节
+C:\Program Files (x86)\Common Files\Adobe\Plug-Ins\CC\File Formats\Camera Raw.8bi     大小:79204824字节
+C:\Program Files (x86)\Microsoft Office\root\VFS\ProgramFilesCommonX86\Microsoft Shared\OFFICE16\MSORES.DLL     大小:78166368字节
+C:\Users\24676\.PyCharmCE2017.3\system\tmp\patch-update\patch.jar     大小:77486222字节
+C:\Users\24676\AppData\Roaming\Adobe\Common\Motion Graphics Templates\[AE] News Package\News Transition.mogrt     大小:77269437字节
+C:\LenovoDrivers\Drivers\Realtek High Definition Audio_6.0.1.8090@42.7z     大小:74762437字节
+C:\Users\24676\AppData\Local\Microsoft\vscode-cpptools\ipch\9a7989391700a6c3\04静态成员变量的继承.ipch     大小:74514432字节
+C:\ProgramData\Microsoft Help\MS.VSCC.v90_2052_MKWD_K.HxW     大小:73742664字节
+C:\ProgramData\Microsoft Help\MS.MSDNQTR.v90.chs_2052_MKWD_K.HxW     大小:73742584字节
+C:\Users\24676\AppData\Local\Postman\packages\Postman-win64-6.7.4-full.nupkg     大小:72988096字节
+C:\$WINDOWS.~BT\Sources\sxs\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab     大小:72702771字节
+C:\Windows\Installer\16153.msi     大小:72577024字节
+C:\Windows\System32\DriverStore\FileRepository\hdxrt4.inf_amd64_493d2edeaca6808d\RCoRes64.dat     大小:72520712字节
+C:\Windows\System32\RCoRes64.dat     大小:72520680字节
+C:\Windows\System32\DriverStore\FileRepository\hdxrt4.inf_amd64_e04ad9fa103d2055\RCoRes64.dat     大小:72520680字节
+C:\Users\24676\AppData\Local\Postman\app-6.1.3\resources\app.asar     大小:71979465字节
+C:\Program Files (x86)\Lenovo\LenovoGame\2.3.5\libcef.dll     大小:71581552字节
+C:\Program Files (x86)\Microsoft Office\root\Office16\ADDINS\Microsoft Power Query for Excel Integrated\bin\Microsoft.Mashup.Client.Excel.Themes.dll     大小:70903168字节
+C:\Program Files (x86)\Lenovo\SLBrowser\5.0.4040.400\chrome_child.dll     大小:69349128字节
+C:\Windows\Installer\200876.msi     大小:68390912字节
+C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Mashup\Microsoft.ProBI.MashupLibrary.Themes.dll     大小:67660872字节
+C:\Users\24676\AppData\Local\Postman\app-6.7.4\Postman.exe     大小:67566200字节
+C:\Users\24676\AppData\Local\Postman\app-6.1.3\Postman.exe     大小:67504760字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\x64\libucrtd.lib     大小:67423160字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\arm\libucrtd.lib     大小:67170618字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\arm64\libucrtd.lib     大小:67006732字节
+C:\Users\24676\.PyCharmCE2017.3\system\index\idindex\IdIndex.storage_i     大小:66519040字节
+C:\Users\24676\.PyCharmCE2018.1\system\index\idindex\IdIndex.storage_i     大小:66519040字节
+C:\Users\24676\AppData\Local\pip\cache\http\1\a\1\f\c\1a1fc45f9c815b2bdbcf9a039d5d55a948ec35bd1e47e0652097a920     大小:66348358字节
+C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\libcef.dll     大小:65710648字节
+C:\Program Files (x86)\Google\Update\Download\{8A69D345-D564-463C-AFF1-A69D9E530F96}\86.0.4240.198\86.0.4240.198_chrome_installer.exe     大小:65541376字节
+C:\Users\24676\AppData\Local\lenovo\devicecenter\profiles\desktop.db3     大小:65355776字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\x64\libucrt.lib     大小:65220492字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\arm64\libucrt.lib     大小:64669698字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\arm\libucrt.lib     大小:64507144字节
+C:\Windows\System32\MBLooks4UI_x64.dll     大小:64347136字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\x86\libucrtd.lib     大小:63844628字节
+C:\Program Files\Microsoft Analysis Services\AS OLEDB\140\msmdlocal.dll     大小:63018064字节
+C:\Users\24676\.PyCharmCE2018.1\system\index\stubs\Stubs.storage.values     大小:62894043字节
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\x86\libucrt.lib     大小:62824270字节
